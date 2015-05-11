@@ -1,1 +1,2 @@
 # PracticeAMD
+To personal practice.
